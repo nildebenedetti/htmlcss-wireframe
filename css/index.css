@@ -28,6 +28,18 @@ body {
 
 }
 
+.melancholia-heading {
+    font-style: italic;
+    font-weight: 200;
+    color: cornflowerblue;    
+}
+
+.melancholia-txt {
+    font-style: italic;
+    font-weight: 200;
+    color: rgb(80, 97, 129);   
+}
+
 .tender-txt {
     font-style: oblique;
     font-weight: 400;
