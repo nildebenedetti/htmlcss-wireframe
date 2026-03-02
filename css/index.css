@@ -14,11 +14,31 @@ body {
     border: 2px dashed black;
 }
 
+/* Gens */
+
+body {
+    background-color:lightcyan
+}
+/* Utils */
+
+.tender-heading {
+    font-style: oblique;
+    font-weight: 700;
+    color: rgb(207, 109, 129);
+
+}
+
+.tender-txt {
+    font-style: oblique;
+    font-weight: 400;
+    color: rgb(126, 43, 59);
+}
+
 /* Header */
 
 header {
     background-color:rgb(245, 242, 208);
-    border-bottom: 3px solid rgb(88, 86, 86);
+    border-bottom: 3px solid rgb(136, 133, 133);
 }
 
 .great-heading {
@@ -27,3 +47,14 @@ header {
     font-weight:500;
     color:rgba(188, 129, 188, 0.765);
 }
+
+/* Cards */
+
+.card {
+    margin: 15px 30px;
+    padding: 15px;
+    border: 3px solid rgba(236, 114, 114, 0.629);
+    background-color: azure;
+}
+
+
