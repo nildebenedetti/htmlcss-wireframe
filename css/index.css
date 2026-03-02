@@ -57,4 +57,17 @@ header {
     background-color: azure;
 }
 
+/* Footer 
 
+Per applicare le spaziature al footer, scelgo un rapporto di discendenza diretta
+*/
+
+footer > p {
+    margin: 8px 20px;
+    padding: 3px;
+}
+
+footer {
+    border-top: 3px solid rgb(136, 133, 133);
+
+}
