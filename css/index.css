@@ -13,3 +13,17 @@ body {
     margin: 0 auto;
     border: 2px dashed black;
 }
+
+/* Header */
+
+header {
+    background-color:rgb(245, 242, 208);
+    border-bottom: 3px solid rgb(88, 86, 86);
+}
+
+.great-heading {
+    padding: 15px;
+    font-size: 38px;
+    font-weight:500;
+    color:rgba(188, 129, 188, 0.765);
+}
