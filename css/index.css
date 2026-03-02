@@ -19,7 +19,19 @@ body {
 body {
     background-color:lightcyan
 }
+
+h2 {
+    margin: 3px auto;
+}
 /* Utils */
+
+.right {
+    text-align:right;
+}
+
+.center {
+    text-align:center;
+}
 
 .tender-heading {
     font-style: oblique;
