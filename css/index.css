@@ -1,0 +1,14 @@
+/* CSS Reset */
+
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+/* Mobile Layout Sizing */
+
+body {
+    width: 512px;
+    margin: 0 auto;
+}
